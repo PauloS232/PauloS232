@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 📧 Email para contato: sergiopaulo99468@gmail.com
 - 💻 Estou trabalhnado em um projeto de HTML.
 
- ![](https://tenor.com/pt-BR/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429)
+ ![](https://tenor.com/pt-BR/view/xero-code-code-xer0-code_xer0-code-xero-gif)
 
