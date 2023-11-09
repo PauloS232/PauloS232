@@ -3,7 +3,6 @@
 
 **PauloS232** 
 
-Here are some ideas to get you started:
 
 - 🔭 Atualmemte estou estudando HTML e CSS
 - 🧑‍🎓 Aluno do curso ,Manutenção e Suporte em Informatica.
